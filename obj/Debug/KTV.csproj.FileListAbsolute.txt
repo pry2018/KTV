@@ -1,0 +1,16 @@
+D:\Program Files\Visual Studio(C#)\KTV\KTV\bin\Debug\KTV.exe.config
+D:\Program Files\Visual Studio(C#)\KTV\KTV\bin\Debug\KTV.exe
+D:\Program Files\Visual Studio(C#)\KTV\KTV\bin\Debug\KTV.pdb
+D:\Program Files\Visual Studio(C#)\KTV\KTV\bin\Debug\Interop.WMPLib.dll
+D:\Program Files\Visual Studio(C#)\KTV\KTV\bin\Debug\AxInterop.WMPLib.dll
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.csprojAssemblyReference.cache
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\Interop.WMPLib.dll
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\AxInterop.WMPLib.dll
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.Form1.resources
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.cache
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.csproj.CoreCompileInputs.cache
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.exe
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.pdb
+D:\Program Files\Visual Studio(C#)\KTV\KTV\obj\Debug\KTV.Form2.resources
